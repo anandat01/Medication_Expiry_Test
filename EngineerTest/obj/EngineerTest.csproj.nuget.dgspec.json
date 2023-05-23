@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\EngineerTest\\EngineerTest.csproj": {}
+    "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\MYP_Test\\EngineerTest\\EngineerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\EngineerTest\\EngineerTest.csproj": {
+    "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\MYP_Test\\EngineerTest\\EngineerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\EngineerTest\\EngineerTest.csproj",
+        "projectUniqueName": "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\MYP_Test\\EngineerTest\\EngineerTest.csproj",
         "projectName": "EngineerTest",
-        "projectPath": "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\EngineerTest\\EngineerTest.csproj",
+        "projectPath": "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\MYP_Test\\EngineerTest\\EngineerTest.csproj",
         "packagesPath": "C:\\Users\\Ananda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\EngineerTest\\obj\\",
+        "outputPath": "C:\\Users\\Ananda\\Documents\\SoftwareEngineerTest\\MYP_Test\\EngineerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
