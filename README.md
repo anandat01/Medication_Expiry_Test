@@ -4,14 +4,7 @@ O/p file name has changed to compare the given format. Please check new_output.j
 Thank You
 
 
-# MYP Take-Home Test Specification
-
-You are a new developer in the team, and your first job is to add a feature to an old existing piece of code.
-
 ## System specifications
-
-Hi and welcome to the team. We are in the future, and MYP have extended its activities by opening a pharmacy. Your task is to add a new feature to our system so that we can begin distributing a new drug. 
-
 First an introduction to our system:
 
 - All drugs have an `expiresIn` value which denotes the number of days we have until the item expires.
@@ -31,24 +24,10 @@ We have recently signed a supplier of "Dafalgan". This requires an update to our
 
 - "Dafalgan" degrades in Benefit twice as fast as normal drugs.
 
-## Instructions
-
-- [ ] Implement the required feature
-- [ ] Publish it on your GitHub (or Gitlab, or whatever...)
-- [ ] Send us the link and tell us approximately how much time you spent on this assignment
-
-You are encouraged to refactor the existing code before adding your own, as you would do if this was a real task in real life. We strongly recommend that you write tests to help you during this process.
-
-Feel free to make any changes to the `UpdateBenefitValue` method implementation and add any new code as long 
-as everything still works correctly. However, do not break the public API of the `IDrug` 
-and `IPharmacy` classes, as those are used by other pieces of the software 
-(you can add new methods though).
 
 Please commit as frequently as possible to make the review easier.
 
-## Test
 
-To make sure that you will not break anything in the existing code, we added the result of the simulation in the _output.json_ file. Make sure that your code is able to generate a file with identical content. You can generate a new file by running the following command:
 
 ```sh
 cd EngineerTest
